@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/offcn/control/GoodsController.java=GBK
+encoding//src/main/java/com/offcn/mapper/GoodsDAO.java=GBK
+encoding//src/main/java/com/offcn/service/GoodsService.java=GBK
+encoding//src/main/java/com/offcn/service/impl/GoodsServiceImpl.java=GBK
+encoding//src/test/java=UTF-8
